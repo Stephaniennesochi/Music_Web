@@ -1,0 +1,59 @@
+span{
+    color: brown;
+}
+#spann{
+    color: darkblue;
+}
+body{
+    background-color: lightcoral;
+}
+img{
+    float: right;
+    height: 500px;
+    width: 540px;
+}
+a{
+    text-decoration: none;
+    font-size: 28px;
+    font-weight: 600;
+    display: flexbox;
+    padding: 10px;
+    position: relative;
+    left: 810px;
+    color: blue;
+    transition: 0.2s;
+    
+}
+a:hover{
+    color: black;
+}
+.class{
+    color: brown;
+}
+h1{
+    color: blueviolet;
+    font-size: 50px;
+}
+p{
+    font-weight: 700;
+    font-size: 25px;
+    
+}
+button{
+    background-color: royalblue;
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+    font-size: 15px;
+    font-weight: 600;
+}
+button:hover{
+    background-color: plum;
+}
+h2{
+    font-weight: 600;
+    font-size: 30px;
+}
